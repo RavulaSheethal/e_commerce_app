@@ -21,10 +21,7 @@ All product data is fetched from:
 ## 🚀 Getting Started
 
 ### Prerequisites:
-Flutter SDK (v3.13.0 or later)
-Dart SDK (v3.1.0 or later)
-Android Studio or VS Code
-Emulator or Chrome browser for testing
+Flutter SDK (v3.13.0 or later), Dart SDK (v3.1.0 or later), Android Studio or VS Code, Emulator or Chrome,edge browser for testing
 
 ### Run the project:
 flutter clean
