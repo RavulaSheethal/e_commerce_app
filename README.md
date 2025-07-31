@@ -31,17 +31,6 @@ flutter clean
 flutter pub get
 flutter run
 
-
-### Folder Structure
-lib
-
-models           Data models (e.g., Product)
-providers        State management using Provider
-screens          UI screens (auth, home, cart, checkout)
-services         API services
-widgets          Reusable components like product card
-main.dart        App entry point
-
 ### Testing Screenshots
 Screenshots have been added in the documentation (Word) from:
 
