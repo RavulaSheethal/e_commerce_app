@@ -24,9 +24,9 @@ All product data is fetched from:
 Flutter SDK (v3.13.0 or later), Dart SDK (v3.1.0 or later), Android Studio or VS Code, Emulator or Chrome,edge browser for testing
 
 ### Run the project:
-flutter clean
-flutter pub get
-flutter run
+flutter clean<br>
+flutter pub get<br>
+flutter run<br>
 
 ### Testing Screenshots
 Screenshots have been added in the documentation (Word) from:
