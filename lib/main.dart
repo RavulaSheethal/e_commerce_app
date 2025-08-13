@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         builder: (context, themeProvider, _) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'Mitt Arv E-Commerce',
+            title: 'E-Commerce',
             theme: ThemeData.light(),
             darkTheme: ThemeData.dark(),
             themeMode: themeProvider.themeMode,
